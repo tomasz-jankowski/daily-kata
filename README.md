@@ -11,5 +11,4 @@ Solving a Codewars Kata a day - Python &amp; TypeScript
 
 | Day | Python kata | TypeScript kata |
 |-----|-------------|-----------------|
-| 0 | [Stop gninnipS My sdroW!]([url](https://github.com/tomasz-jankowski/daily-kata/blob/python/spin-words.py)) <sub>_6kyu_</sub> | [Sum of Digits / Digital Root
-]([url](https://github.com/tomasz-jankowski/daily-kata/blob/typescript/digital-root.ts)) <sub>_6kyu_</sub> |
+| 0 | [Stop gninnipS My sdroW!](https://github.com/tomasz-jankowski/daily-kata/blob/python/spin-words.py) <sub>_6kyu_</sub> | [Sum of Digits / Digital Root](https://github.com/tomasz-jankowski/daily-kata/blob/typescript/digital-root.ts) <sub>_6kyu_</sub> |
