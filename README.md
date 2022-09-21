@@ -1,14 +1,16 @@
 # daily-kata
+
 Solving a Codewars Kata a day - Python &amp; TypeScript
 
-<sup>Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-kata-too)</sup>
+_Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-kata-too)_
 
 ---
 
-![Codewar Badge](https://www.codewars.com/users/tomasz-jankowski/badges/large)<br>
+![Codewar Badge](https://www.codewars.com/users/tomasz-jankowski/badges/large)
 
-# <sub>Days: 1</sub><br>
+Days: 2
 
-| Day | Python kata | TypeScript kata |
-|-----|-------------|-----------------|
-| 0 | [Stop gninnipS My sdroW!](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/spin-words.py) <sub>_6kyu_</sub> | [Sum of Digits / Digital Root](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/digital-root.ts) <sub>_6kyu_</sub> |
+| Day | Python kata                                                                                                                   | TypeScript kata                                                                                                            |
+|-----|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| 1   | [Replace With Alphabet Position](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/alphabet-position.py) _6kyu_ | [Square Every Digit](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/square-every-digit.ts) _7kyu_     |
+| 0   | [Stop gninnipS My sdroW!](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/spin-words.py) _6kyu_               | [Sum of Digits / Digital Root](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/digital-root.ts) _6kyu_ |
