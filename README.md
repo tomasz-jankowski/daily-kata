@@ -8,7 +8,7 @@ _Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-
 
 ![Codewar Badge](https://www.codewars.com/users/tomasz-jankowski/badges/large)
 
-Days: 2
+Days: 3
 
 | Day | Python kata                                                                                                                   | TypeScript kata                                                                                                            |
 |-----|-------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
