@@ -10,6 +10,7 @@ _Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-
 
 
 ### Days: 7
+Skipped: 2
 
 | Level  | Python count | TypeScript count |
 |--------|--------------|------------------|
