@@ -9,18 +9,19 @@ _Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-
 ![Codewar Badge](https://www.codewars.com/users/tomasz-jankowski/badges/large)
 
 
-### Days: 8
+### Days: 9
 Skipped: 2
 
 | Level  | Python count | TypeScript count |
 |--------|--------------|------------------|
-| _5kyu_ | 0            | 1                |
-| _6kyu_ | 7            | 5                |
+| _5kyu_ | 1            | 1                |
+| _6kyu_ | 7            | 6                |
 | _7kyu_ | 1            | 2                |
 
 
 | Day | Python kata                                                                                                                     | TypeScript kata                                                                                                                        |
 |-----|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 8   | [Where my anagrams at?](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/anagrams.py) _5kyu_                     | [Make the Deadfish Swim](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/deadfish.ts) _6kyu_                       |
 | 7   | [Break camelCase](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/break-camel-case.py) _6kyu_                   | [Multiples of 3 or 5](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/multiples-of-3-or-5.ts) _6kyu_               |
 | 6   | [Which are in?](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/which-in-list.py) _6kyu_                        | [Statistics for an Athletic Association](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/athletic-stats.ts) _6kyu_ |
 | 5   | [Find the odd int](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/find-odd.py) _6kyu_                          | [Detect Pangram](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/detect-pangram.ts) _6kyu_                         |
