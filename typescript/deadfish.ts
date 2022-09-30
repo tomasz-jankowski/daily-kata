@@ -23,8 +23,3 @@ export function parse(data: string): number[] {
     }
     return result;
 }
-
-console.log(
-    parse("iiisdoso"), [ 8, 64 ],
-    parse("iiisxxxdoso"), [ 8, 64 ]
-)
