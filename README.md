@@ -9,18 +9,19 @@ _Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-
 ![Codewar Badge](https://www.codewars.com/users/tomasz-jankowski/badges/large)
 
 
-### Days: 11
+### Days: 12
 Skipped: 2
 
 | Level  | Python count | TypeScript count |
 |--------|--------------|------------------|
-| _5kyu_ | 3            | 2                |
+| _5kyu_ | 4            | 3                |
 | _6kyu_ | 7            | 7                |
 | _7kyu_ | 1            | 2                |
 
 
 | Day | Python kata                                                                                                                     | TypeScript kata                                                                                                                        |
 |-----|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 11  | [Human Readable Time](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/human-readable-time.py) _5kyu_            | [Fibonacci Streaming](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/fibonacci-streaming.ts) _5kyu_               |
 | 10  | [Perimeter of squares in a rectangle](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/perimeter.py) _5kyu_      | [Vector class](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/vector-class.ts) _5kyu_                             |
 | 9   | [Moving Zeros To The End](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/move-zeros.py) _5kyu_                 | [Your order, please](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/order.ts) _6kyu_                              |
 | 8   | [Where my anagrams at?](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/anagrams.py) _5kyu_                     | [Make the Deadfish Swim](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/deadfish.ts) _6kyu_                       |
