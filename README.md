@@ -9,18 +9,19 @@ _Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-
 ![Codewar Badge](https://www.codewars.com/users/tomasz-jankowski/badges/large)
 
 
-### Days: 12
+### Days: 13
 Skipped: 2
 
 | Level  | Python count | TypeScript count |
 |--------|--------------|------------------|
-| _5kyu_ | 4            | 3                |
+| _5kyu_ | 5            | 4                |
 | _6kyu_ | 7            | 7                |
 | _7kyu_ | 1            | 2                |
 
 
 | Day | Python kata                                                                                                                     | TypeScript kata                                                                                                                        |
 |-----|---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 12  | [Not very secure](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/regex-not-very-secure-password.py) _5kyu_     | [Beeramid](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/beeramid.ts) _5kyu_                                     |
 | 11  | [Human Readable Time](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/human-readable-time.py) _5kyu_            | [Fibonacci Streaming](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/fibonacci-streaming.ts) _5kyu_               |
 | 10  | [Perimeter of squares in a rectangle](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/perimeter.py) _5kyu_      | [Vector class](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/vector-class.ts) _5kyu_                             |
 | 9   | [Moving Zeros To The End](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/move-zeros.py) _5kyu_                 | [Your order, please](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/order.ts) _6kyu_                              |
