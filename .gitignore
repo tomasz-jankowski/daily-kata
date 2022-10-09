@@ -3,3 +3,4 @@ node_modules/
 package.json
 package-lock.json
 typescript/devils-sequence.ts
+typescript/decimal-factorial.ts
