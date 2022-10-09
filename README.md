@@ -9,19 +9,20 @@ _Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-
 ![Codewar Badge](https://www.codewars.com/users/tomasz-jankowski/badges/large)
 
 
-### Days: 15
+### Days: 16
 Skipped: 2
 
 | Level  | Python count | TypeScript count |
 |--------|--------------|------------------|
 | _4kyu_ | 0            | 1                |
-| _5kyu_ | 7            | 4                |
+| _5kyu_ | 8            | 5                |
 | _6kyu_ | 7            | 8                |
 | _7kyu_ | 1            | 2                |
 
 
 | Day | Python kata                                                                                                                                 | TypeScript kata                                                                                                                        |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 15  | [Extract the domain name from a URL](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/extract-domain-name.py) _5kyu_         | [Base64 Encoding](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/base64-encoding.ts) _5kyu_                       |
 | 14  | [Mean Square Error](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/mean-square-error.py) _5kyu_                            | [Sum by Factors](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/sum-by-factors.ts) _4kyu_                         |
 | 13  | [Convert PascalCase string into snake_case](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/pascal-to-camel-case.py) _5kyu_ | [Tribonacci Sequence](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/tribonacci-sequence.ts) _6kyu_               |
 | 12  | [Not very secure](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/regex-not-very-secure-password.py) _5kyu_                 | [Beeramid](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/beeramid.ts) _5kyu_                                     |
