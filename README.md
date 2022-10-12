@@ -9,19 +9,21 @@ _Inspired by: [tinuola's daily kata challenge](https://github.com/tinuola/daily-
 ![Codewar Badge](https://www.codewars.com/users/tomasz-jankowski/badges/large)
 
 
-### Days: 16
-Skipped: 2
+### Days: 18
+Skipped: 3
 
 | Level  | Python count | TypeScript count |
 |--------|--------------|------------------|
 | _4kyu_ | 0            | 1                |
-| _5kyu_ | 8            | 5                |
-| _6kyu_ | 7            | 8                |
+| _5kyu_ | 10           | 6                |
+| _6kyu_ | 7            | 9                |
 | _7kyu_ | 1            | 2                |
 
 
 | Day | Python kata                                                                                                                                 | TypeScript kata                                                                                                                        |
 |-----|---------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 17  | [Scramblies](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/scramblies.py) _5kyu_                                          | [Decode the Morse code](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/morse-code-1.ts) _6kyu_                    |
+| 16  | [The Hashtag Generator](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/generate-hashtag.py) _5kyu_                         | [Product of consecutive Fib numbers](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/fibonacci-product.ts) _5kyu_  |
 | 15  | [Extract the domain name from a URL](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/extract-domain-name.py) _5kyu_         | [Base64 Encoding](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/base64-encoding.ts) _5kyu_                       |
 | 14  | [Mean Square Error](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/mean-square-error.py) _5kyu_                            | [Sum by Factors](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/sum-by-factors.ts) _4kyu_                         |
 | 13  | [Convert PascalCase string into snake_case](https://github.com/tomasz-jankowski/daily-kata/blob/main/python/pascal-to-camel-case.py) _5kyu_ | [Tribonacci Sequence](https://github.com/tomasz-jankowski/daily-kata/blob/main/typescript/tribonacci-sequence.ts) _6kyu_               |

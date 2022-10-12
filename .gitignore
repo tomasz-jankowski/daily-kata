@@ -4,3 +4,4 @@ package.json
 package-lock.json
 typescript/devils-sequence.ts
 typescript/decimal-factorial.ts
+typescript/ascii85-encoding.ts
